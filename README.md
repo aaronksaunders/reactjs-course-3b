@@ -2,7 +2,7 @@
 
 ### Example using react router to perform basic page navigation in an application
 
-<img src="Screen Shot 2019-09-20 at 10.22.37 AM.png" width=600/>
+<img src="Screen Shot 2019-09-20 at 2.27.24 PM.png" width=600/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
