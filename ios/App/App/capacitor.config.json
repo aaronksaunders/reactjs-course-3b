@@ -1,0 +1,7 @@
+{
+  "appId": "com.aks",
+  "appName": "react-course3b",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build"
+}

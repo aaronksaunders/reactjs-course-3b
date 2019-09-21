@@ -6,6 +6,9 @@ const PageOne = props => (
     <p></p>
     <button onClick={() => props.history.push("/page-two")}>
       Show Page Two
+    </button>&nbsp;&nbsp;
+    <button onClick={() => props.history.push("/page-three")}>
+      Show Page Three - React Redux Example
     </button>
     <Link to="/page-one-detail/Hulk">
       <p>Hulk</p>
