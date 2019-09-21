@@ -4,6 +4,8 @@
 
 <img src="Screen Shot 2019-09-20 at 2.27.24 PM.png" width=600/>
 
+<img src="Screen Shot 2019-09-21 at 6.17.05 PM.png" width=600/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This is a contrieved example to show how you can use the capacitor and capacitor plugins to deploy a react app to a mobile device
