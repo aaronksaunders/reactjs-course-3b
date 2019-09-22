@@ -5,11 +5,14 @@ const PageOne = props => (
     <h2>Page One Component</h2>
     <p></p>
     <button onClick={() => props.history.push("/page-two")}>
-      Show Page Two
-    </button>&nbsp;&nbsp;
+      Show Page Two - Passing Params In Routes
+    </button><br/>
     <button onClick={() => props.history.push("/page-three")}>
       Show Page Three - React Redux Example
-    </button>
+    </button><br/>
+    <button onClick={() => props.history.push("/page-four")}>
+      Show Page Four - React Hooks Reducer Example
+    </button><br/>
     <Link to="/page-one-detail/Hulk">
       <p>Hulk</p>
     </Link>

@@ -5,9 +5,11 @@ import PageOne from "./PageOne";
 import PageOneDetail from "./PageOneDetail";
 import PageTwo from "./PageTwo";
 import PageThree from "./PageThree";
+import PageFour from "./PageFour";
 
 import { Provider } from "react-redux";
 import store from "./store";
+
 
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
         <Route path="/page-one-detail/:name" component={PageOneDetail} />
         <Route path="/page-two" component={PageTwo} />
         <Route path="/page-three" component={PageThree} />
+        <Route path="/page-four" component={PageFour} />
       </Router>
     </Provider>
   );
